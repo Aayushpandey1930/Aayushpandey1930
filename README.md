@@ -4,36 +4,31 @@
 <p align="center">
 Building scalable web applications, exploring AI, and contributing to impactful tech communities.
 </p>
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=35&pause=1000&color=38BDF8&center=true&vCenter=true&width=1000&height=60&lines=Computer+Science+Student;Full+Stack+Developer;Amateur+Photographer+%7C+Videographer;DSA+%7C+Machine+Learning+%7C+AI" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 <br/>
 
-## <h3 align='left'><strong>🌐 Socials ⚙️</strong></h3>
-</br>
-
-<p align="left">
+<p align="center">
   <a href="https://instagram.com/aayushpandey019">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Instagram-d5d5d5?style=for-the-badge&logo=Instagram&logoColor=0A0209"/>
   </a>
   <a href="https://linkedin.com/in/aayushpandey1930">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedIn&logoColor=0A0209"/>
   </a>
   <a href="https://x.com/aayushpandey019">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+    <img src="https://img.shields.io/badge/X-d5d5d5?style=for-the-badge&logo=x&logoColor=0A0209"/>
   </a>
   <a href="mailto:aayupanvar20@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-d5d5d5?style=for-the-badge&logo=Gmail&logoColor=0A0209"/>
   </a>
 </p>
 
 ---
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 
 <p align="center">
 
@@ -60,7 +55,7 @@ Building scalable web applications, exploring AI, and contributing to impactful 
 
 ---
 <div align="center">
-<h3 align='center'><strong>Github Analytics ⚙️</strong></h3>
+<h2 align='center'><strong> ⚙️ Github Analytics </strong></h2>
 
 <br>
 
@@ -89,12 +84,9 @@ Building scalable web applications, exploring AI, and contributing to impactful 
         <td  colspan="2" align="center"> 
 		<br>
 	<!-- <img src="https://i.imgur.com/x1KbuCq.gif" width="500"> -->
-<p align="center"> 
-  <img 
-  src="https://itshivam.in/api/visitors?path=https%3A%2F%2Fgithub.com%2Faayushpandey1930&label=VISITORS&labelColor=%2300FF88&countColor=%2300FF88" 
-  alt="GitHub Profile Visitors - aayushpandey1930"
-  style="max-width: 100%;"
-/>
+<div align="center">
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FAayushpandey1930&label=VISITORS&labelColor=%23000&countColor=%230A0209" />
+  <br><br>
 <br/>
 
 ### ✍️ Random Dev Quote
