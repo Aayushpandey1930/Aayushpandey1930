@@ -1,3 +1,8 @@
+<img
+  src="https://github.com/Aayushpandey1930/Aayushpandey1930/blob/main/aayush%20pandey%20banner.png"
+  style="border-radius: 50%"
+  />
+<br/><br/>
 <h1 align="center">Hi 👋, I'm Aayush Pandey 😎 </h1> 
 <h3 align="center">Computer Science Student | 💻 Aspiring Developer | Learning to Build and Innovate 💡 | Amateur Photographer 📸 & Videographer 📽️ </h3>
 
