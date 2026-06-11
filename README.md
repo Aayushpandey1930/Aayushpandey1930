@@ -1,16 +1,105 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Aayush Pandey 😎 </h1> 
+<h3 align="center">Computer Science Student | 💻 Aspiring Developer | Learning to Build and Innovate 💡 | Amateur Photographer 📸 & Videographer 📽️ </h3>
 
-<!--
-**Aayushpandey1930/Aayushpandey1930** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Building scalable web applications, exploring AI, and contributing to impactful tech communities.
+</p>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
-Here are some ideas to get you started:
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=35&pause=1000&color=38BDF8&center=true&vCenter=true&width=1000&height=60&lines=Computer+Science+Student;Full+Stack+Developer;Amateur+Photographer+%7C+Videographer;DSA+%7C+Machine+Learning+%7C+AI" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+<br/>
+
+## <h3 align='left'><strong>🌐 Socials ⚙️</strong></h3>
+</br>
+
+<p align="left">
+  <a href="https://instagram.com/aayushpandey019">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/aayushpandey1930">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://x.com/aayushpandey019">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>
+  <a href="mailto:aayupanvar20@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+# 💻 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=c,cpp,html,css,javascript,python,bootstrap,react,nodejs,express,flutter,mysql,tailwind,git,github,figma,notion" />
+
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aayushpandey1930&theme=tokyonight" />
+</p>
+
+---
+>
+
+## 🔥 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayushpandey1930&layout=compact&theme=tokyonight" />
+</p>
+
+---
+<div align="center">
+<h3 align='center'><strong>Github Analytics ⚙️</strong></h3>
+
+<br>
+
+<markdown-accessiblity-table data-catalyst="">
+  <table style="width: 100%; background-color: #1e1e1e; color: white; table-layout: fixed;">
+    <thead>
+	    <tr>
+		  <th colspan="2" align="center">
+			   <img src="./profile-3d-contrib/profile-night-green.svg" alt="Night Green Profile" style="width: 100%; object-fit: contain;" />
+		  </th>
+		</tr>
+      <tr>
+        <th style="padding: 20px; text-align: center;">
+          <a target="_blank" rel="noopener noreferrer nofollow" href="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=The-aayushpandey1930&theme=github_dark">
+            <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aayushpandey1930&theme=github_dark" style= "width: 24.5em; height: 14em; object-fit: contain;" />
+          </a>
+        </th>
+        <th style="padding: 20px; text-align: center;">
+          <a target="_blank" rel="noopener noreferrer nofollow" href="https://github-readme-stats.vercel.app/api?username=aayushpandey1930&show_icons=true&locale=en">
+            <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=aayushpandey1930&theme=github_dark" alt="GitHub Stats" style="width: 100%; height: 14em; object-fit: contain;" />
+          </a>
+        </th>
+      </tr>
+    </thead>
+	   <tr>
+        <td  colspan="2" align="center"> 
+		<br>
+	<!-- <img src="https://i.imgur.com/x1KbuCq.gif" width="500"> -->
+<p align="center"> 
+  <img 
+  src="https://itshivam.in/api/visitors?path=https%3A%2F%2Fgithub.com%2Faayushpandey1930&label=VISITORS&labelColor=%2300FF88&countColor=%2300FF88" 
+  alt="GitHub Profile Visitors - aayushpandey1930"
+  style="max-width: 100%;"
+/>
+<br/>
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+![footer](https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&text=Thanks%20for%20visiting!&fontSize=38&fontColor=ffffff&color=gradient&customColorList=0,67,128,171,98,126,234,118,75,162&animation=twinkling&fontAlignY=60&desc=Let's%20connect%20and%20build%20something%20amazing%20together!&descSize=22&descAlignY=85)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
