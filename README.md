@@ -37,7 +37,7 @@ Building scalable web applications, exploring AI, and contributing to impactful 
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,html,css,javascript,python,bootstrap,react,nodejs,express,flutter,mysql,tailwind,git,github,figma,notion" />
+<img src="https://skillicons.dev/icons?i=c,cpp,html,css,javascript,python,bootstrap,react,nodejs,express,flutter,mysql,tailwind,git,github,figma,notion,AdobeExpress,Canava,DaVinciReslove" />
 
 </p>
 
