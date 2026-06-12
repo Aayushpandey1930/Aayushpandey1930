@@ -45,18 +45,16 @@ Building scalable web applications, exploring AI, and contributing to impactful 
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aayushpandey1930&theme=tokyonight" />
-</p>
-
----
->
-
-## 🔥 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayushpandey1930&layout=compact&theme=tokyonight" />
-</p>
+<table align="center">
+<tr>
+<td>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aayushpandey1930&theme=tokyonight" />
+</td>
+<td>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayushpandey1930&layout=compact&theme=tokyonight" />
+</td>
+</tr>
+</table>
 
 ---
 <div align="center">
@@ -69,7 +67,11 @@ Building scalable web applications, exploring AI, and contributing to impactful 
     <thead>
 	    <tr>
 		  <th colspan="2" align="center">
-			   <img src="./profile-3d-contrib/profile-night-green.svg" alt="Night Green Profile" style="width: 100%; object-fit: contain;" />
+			  <!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 		  </th>
 		</tr>
       <tr>
