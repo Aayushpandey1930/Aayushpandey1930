@@ -35,11 +35,18 @@ Building scalable web applications, exploring AI, and contributing to impactful 
 
 ## 💻 Tech Stack
 
-<p align="center">
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,html,css,javascript,python,bootstrap,react,nodejs,express,flutter,sql,tailwind,git,github,figma,notion,numpy,pandas,matplotlib" />
+| Category | Technologies |
+|---|---|
+| **Languages** | <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript" /> |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,react" /> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,flutter" /> |
+| **Database** | <img src="https://skillicons.dev/icons?i=postgres" /> |
+| **Tools & Platforms** | <img src="https://skillicons.dev/icons?i=git,github,postman" /> |
+| **Design & Productivity** | <img src="https://skillicons.dev/icons?i=figma,notion" /> |
 
----
+</div>
 
 ## 📊 GitHub Stats
 
