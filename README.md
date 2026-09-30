@@ -39,7 +39,7 @@ Building scalable web applications, exploring AI, and contributing to impactful 
 
 | Category | Technologies |
 |---|---|
-| **Languages** | <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript" /> |
+| **Languages** | <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,sql" /> |
 | **Frontend** | <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,react" /> |
 | **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express" />  |
 | **Database** | <img src="https://skillicons.dev/icons?i=postgres" /> |
